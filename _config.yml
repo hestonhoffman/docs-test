@@ -3,5 +3,5 @@ logo: assets/lyratile1.png
 title: Lyra
 collections:
   docs:
-    permalink: /docs/:path/
+    permalink: /docs/
     output: true
