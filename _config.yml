@@ -3,10 +3,5 @@ logo: assets/lyratile1.png
 title: Lyra
 collections:
   docs:
-    permalink: "/:collection/:path/"
+    permalink: /docs/:path/
     output: true
-
-defaults:
-- scope:
-    path: _docs
-    type: docs
