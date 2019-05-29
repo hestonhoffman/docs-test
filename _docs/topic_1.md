@@ -1,5 +1,5 @@
 ---
-title: Lyra with K8s
+title: topic_1
 category: configuration
 order: 1
 ---
