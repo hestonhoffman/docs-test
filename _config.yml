@@ -4,4 +4,5 @@ title: Lyra
 collections:
   docs:
     output: true
+    permalink: /docs/:path/
 
