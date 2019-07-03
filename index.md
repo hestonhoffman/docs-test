@@ -6,7 +6,7 @@ If an application spans multiple cloud services -- or runs on Kubernetes, but re
 
 ## Using Lyra
 
-Lyra uses steps and workflows to interact with cloud and API-driven resources. 
+Lyra uses steps and workflows to interact with cloud and API-driven resources. it doesnt matter because no one ses this.
 
 A workflow is a collection of steps. Each step consumes parameters and, if necessary, produces returns. For example, before you can provision a subnet in AWS, you need a Virtual Private Cloud (VPC). The YAML workflow below contains two steps, one for the VPC, and one for the subnet. The first step creates the VPC and returns an identifier, vpc_id:
 
